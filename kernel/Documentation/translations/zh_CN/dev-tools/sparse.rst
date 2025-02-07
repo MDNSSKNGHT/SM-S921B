@@ -1,4 +1,4 @@
-﻿Copyright 2004 Linus Torvalds
+Copyright 2004 Linus Torvalds
 Copyright 2004 Pavel Machek <pavel@ucw.cz>
 Copyright 2006 Bob Copeland <me@bobcopeland.com>
 

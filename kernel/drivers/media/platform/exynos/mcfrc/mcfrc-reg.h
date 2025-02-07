@@ -1,4 +1,4 @@
-﻿/* linux/drivers/media/platform/exynos/mcfrc/mcfrc-regs.h
+/* linux/drivers/media/platform/exynos/mcfrc/mcfrc-regs.h
  *
  * Register definition file for Samsung JPEG Squeezer driver
  *
