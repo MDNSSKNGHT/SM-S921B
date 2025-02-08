@@ -1,0 +1,15 @@
+bazel-*
+build/
+external/
+out/
+prebuilts/asuite/
+prebuilts/bazel/
+prebuilts/build-tools/
+prebuilts/clang-tools/
+prebuilts/clang/
+prebuilts/gcc/
+prebuilts/jdk/
+prebuilts/kernel-build-tools/
+prebuilts/ndk-r23/
+prebuilts/tradefed/
+tools/
